@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "aph-librarian",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Search and quote Analytics Power Hour podcast transcripts.",
   "author": {
     "name": "Analytics Power Hour",
@@ -22,7 +22,18 @@
         "shortDescription": "Search and quote every Analytics Power Hour episode.",
         "longDescription": "Ask what the Analytics Power Hour hosts and guests have said about any analytics topic and get answers built from quoted transcript snippets, each cited with the episode number, title, timestamp, and a link. Also answers questions about the archive itself, such as the latest episode or which episodes came out in a given year.",
         "developerName": "Analytics Power Hour",
-        "category": "Education"
+        "category": "Education",
+        "websiteURL": "https://analyticshour.io",
+        "privacyPolicyURL": "https://mcp.analyticshour.io/privacy",
+        "termsOfServiceURL": "https://mcp.analyticshour.io/terms",
+        "defaultPrompt": [
+          "What have the hosts said about building a data-driven culture?",
+          "What's the latest Analytics Power Hour episode about?",
+          "Find the episodes where they talk about AI agents, and quote the best bits."
+        ],
+        "brandColor": "#190f41",
+        "composerIcon": "./assets/logo.png",
+        "logo": "./assets/logo.png"
       }
     }
   }
