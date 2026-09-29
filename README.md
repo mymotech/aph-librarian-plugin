@@ -20,7 +20,7 @@ Ask what the Analytics Power Hour hosts and guests have said about any analytics
 
 ## What it sends
 
-The plugin runs no code on your computer. When Claude or ChatGPT uses a tool, it sends your search text, plus any episode number, year, or title filter, to `https://mcp.analyticshour.io/mcp`. The Analytics Power Hour runs that server on Cloudflare. No account or sign-in is needed, and nothing else from your conversation is sent. The server keeps standard request logs (IP address, time, and request path) for up to 7 days, for reliability and to prevent abuse. See the [privacy policy](https://mcp.analyticshour.io/privacy).
+The plugin runs no code on your computer. When Claude or ChatGPT uses a tool, it sends your search text, plus any episode number, year, or title filter, to `https://mcp.analyticshour.io/mcp`. Michael Helbling, a co-host of the Analytics Power Hour, runs that server on Cloudflare for the show. No account or sign-in is needed, and nothing else from your conversation is sent. The server keeps standard request logs (IP address, time, and request path) for up to 7 days, for reliability and to prevent abuse. See the [privacy policy](https://mcp.analyticshour.io/privacy).
 
 ## More
 
