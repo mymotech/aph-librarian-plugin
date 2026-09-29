@@ -26,6 +26,6 @@ The plugin runs no code on your computer. When Claude or ChatGPT uses a tool, it
 
 - [Documentation](https://mcp.analyticshour.io/docs): setup for Claude, ChatGPT, and other MCP clients, plus the tools' parameters
 - [Terms of use](https://mcp.analyticshour.io/terms)
-- Support: [contact@analyticshour.io](mailto:contact@analyticshour.io)
+- [Support](https://mcp.analyticshour.io/support), or email [contact@analyticshour.io](mailto:contact@analyticshour.io)
 
 Copyright © 2026 Analytics Power Hour. All rights reserved. See [LICENSE](LICENSE).

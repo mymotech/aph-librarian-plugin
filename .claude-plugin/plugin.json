@@ -1,7 +1,7 @@
 {
   "name": "aph-librarian",
   "displayName": "Analytics Power Hour Librarian",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Search and quote Analytics Power Hour podcast transcripts.",
   "author": {
     "name": "Analytics Power Hour",
@@ -9,6 +9,10 @@
   },
   "homepage": "https://mcp.analyticshour.io/docs",
   "repository": "https://github.com/mymotech/aph-librarian-plugin",
+  "documentationUrl": "https://mcp.analyticshour.io/docs",
+  "privacyPolicyUrl": "https://mcp.analyticshour.io/privacy",
+  "termsOfServiceUrl": "https://mcp.analyticshour.io/terms",
+  "supportUrl": "https://mcp.analyticshour.io/support",
   "keywords": [
     "podcast",
     "analytics",
