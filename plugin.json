@@ -1,0 +1,29 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "aph-librarian",
+  "version": "1.0.0",
+  "description": "Search and quote Analytics Power Hour podcast transcripts.",
+  "author": {
+    "name": "Analytics Power Hour",
+    "url": "https://analyticshour.io"
+  },
+  "homepage": "https://mcp.analyticshour.io/docs",
+  "repository": "https://github.com/mymotech/aph-librarian-plugin",
+  "keywords": [
+    "podcast",
+    "analytics",
+    "data",
+    "transcripts"
+  ],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Analytics Power Hour Librarian",
+        "shortDescription": "Search and quote every Analytics Power Hour episode.",
+        "longDescription": "Ask what the Analytics Power Hour hosts and guests have said about any analytics topic and get answers built from quoted transcript snippets, each cited with the episode number, title, timestamp, and a link. Also answers questions about the archive itself, such as the latest episode or which episodes came out in a given year.",
+        "developerName": "Analytics Power Hour",
+        "category": "Education"
+      }
+    }
+  }
+}

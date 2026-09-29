@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/mcp.schema.json",
+  "mcpServers": {
+    "aph-librarian": {
+      "type": "streamable-http",
+      "url": "https://mcp.analyticshour.io/mcp"
+    }
+  }
+}
