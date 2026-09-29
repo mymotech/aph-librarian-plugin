@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "aph-librarian",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Search and quote Analytics Power Hour podcast transcripts.",
   "author": {
     "name": "Michael Helbling",
@@ -32,7 +32,7 @@
           "Find the episodes where they talk about AI agents, and quote the best bits."
         ],
         "brandColor": "#190f41",
-        "composerIcon": "./assets/logo.png",
+        "composerIcon": "./assets/composer-icon.png",
         "logo": "./assets/logo.png"
       }
     }
